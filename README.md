@@ -1,1 +1,2 @@
-# jam.js
+# class-may-28
+First (Pre) Javascript class
